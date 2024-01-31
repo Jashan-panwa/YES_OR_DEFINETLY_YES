@@ -52,6 +52,7 @@ h2{
     align-content: center;
     align-items: center;
     margin-top: 15px;
+    justify-content: space-around; /* it is change */
 }
 button{
     color:var(--colorbg);
