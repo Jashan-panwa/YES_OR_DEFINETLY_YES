@@ -117,7 +117,7 @@ body {
 }
 
 
-/* Mobile Responsiveness */
+/*------------ Mobile Responsiveness --------------*/
 @media only screen and (max-width: 600px) {
     .wrapper {
         width: 90%;
@@ -128,4 +128,8 @@ body {
     h2{
         font-size: 2.3rem;
     }
+}
+/*-------------------after yes clicked------------*/
+.yesclicked{
+   display: none;
 }
