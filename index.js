@@ -12,6 +12,8 @@ yesbtn.addEventListener('click',()=>{
     question.innerHTML=':) Me Too !!!';
     loveIcon.classList.remove('fa-solid', 'fa-circle-question','doubt');
     loveIcon.classList.add('fa-regular', 'fa-face-grin-hearts','love');
+    yesbtn.classList.add('yesclicked');
+    nobtn.classList.add('yesclicked');
 
 });
 
