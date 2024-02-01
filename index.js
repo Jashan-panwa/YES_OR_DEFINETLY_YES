@@ -9,9 +9,12 @@ const nobtnbox=nobtn.getBoundingClientRect();
 const loveIcon = document.querySelector('i');
 
 yesbtn.addEventListener('click',()=>{
-    question.innerHTML=':) Me Too !!!';
+    question.innerHTML=':) Because it securely encodes happiness into my life !!!';
+
     loveIcon.classList.remove('fa-solid', 'fa-circle-question','doubt');
     loveIcon.classList.add('fa-regular', 'fa-face-grin-hearts','love');
+
+
     yesbtn.classList.add('yesclicked');
     nobtn.classList.add('yesclicked');
 
