@@ -12,7 +12,7 @@ yesbtn.addEventListener('click',()=>{
     question.innerHTML=':) Because code should speak to humans as well as computers !!!';
 
     loveIcon.classList.remove('fa-solid', 'fa-circle-question','doubt');
-    loveIcon.classList.add('fa-regular', 'fa-comments','love');
+    loveIcon.classList.add('fa-regular', 'fa-comments','last');
     
     yesbtn.classList.add('yesclicked');
     nobtn.classList.add('yesclicked');
