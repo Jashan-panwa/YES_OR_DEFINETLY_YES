@@ -9,7 +9,7 @@ const nobtnbox=nobtn.getBoundingClientRect();
 const loveIcon = document.querySelector('i');
 
 yesbtn.addEventListener('click',()=>{
-    question.innerHTML=':) Because it securely encodes happiness into my life !!!';
+    question.innerHTML=':) Because code should speak to humans as well as computers !!!';
 
     loveIcon.classList.remove('fa-solid', 'fa-circle-question','doubt');
     loveIcon.classList.add('fa-regular', 'fa-face-grin-hearts','love');
