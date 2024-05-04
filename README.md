@@ -2,7 +2,7 @@
 A new way to ask out
 
 ## DEMO
-![OUTPUT](images/first.png)
+![OUTPUT](Images/first.png)
 
 ## DEMO
-![OUTPUT](images/second.png)
+![OUTPUT](Images/second.png)
